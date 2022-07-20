@@ -1,1 +1,1 @@
-# first-repository
+# 데이터 과학을 위한 통계 기록용
